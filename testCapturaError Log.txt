@@ -1,0 +1,4 @@
+
+2016-01-12@16:53:19, File:testCapturaError, MATLAB:catenate:dimensionMismatch:CAT arguments dimensions are not consistent., Line Nr.:3
+2016-01-12@16:53:57, File:testCapturaError, MATLAB:dimagree:Matrix dimensions must agree., Line Nr.:3
+2016-01-12@17:00:04, File:testCapturaError, MATLAB:catenate:dimensionMismatch:CAT arguments dimensions are not consistent., Line Nr.:3
